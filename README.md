@@ -12,3 +12,5 @@ This Flask application displays a "Hello World!" on a web browser.
       - Vagrant provision
 
 - Open a web browser at the local address host 5000
+
+<img>http://image.noelshack.com/fichiers/2016/43/1477519134-capture-d-ecran-2016-10-26-a-23-14-53.png</img>
