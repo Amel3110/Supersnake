@@ -4,7 +4,7 @@ This project is about deploying an application Flask using a role deployed by An
 
 This Flask application displays a "Hello World!" on a web browser.
 
-<g>INSTRUCTIONS</g>
+<b>INSTRUCTIONS</b>
 
 - If the user is on OSX or Linux, open the terminal and type :
       - cd Supersnake
